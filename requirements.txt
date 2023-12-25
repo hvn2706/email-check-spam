@@ -1,0 +1,7 @@
+pandas~=2.0.3
+numpy~=1.25.1
+nltk~=3.8.1
+beautifulsoup4~=4.12.2
+tqdm~=4.65.0
+transformers~=4.10.3
+torch
