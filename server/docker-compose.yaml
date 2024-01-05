@@ -1,0 +1,8 @@
+services:
+  spamdetection:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: spam-email
+    ports:
+      - "8001:8000"

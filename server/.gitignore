@@ -1,0 +1,5 @@
+.idea
+*.pycache
+prediction_models.zip
+*.DS_Store
+*.pyc
